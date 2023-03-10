@@ -1,1 +1,6 @@
 # CHESS_GAME_CODE
+Un projet fait par 3 personnes...
+Nathan,Matthias,Davide
+
+A project made by 3 people...
+Nathan,Matthias,Davide
